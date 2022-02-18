@@ -61,5 +61,7 @@ nav li a:hover {
 }
 .footer p{
 	text-align: center;
+	color: whitesmoke;
+	text-shadow:  2px 2px 5px black;
 }
   
