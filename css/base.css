@@ -3,11 +3,11 @@ body {
 }
 h1{
 	font-size: xx-large;
-	font-family: sans-serif;
+	font-family: 'Redressed', cursive;
 }
 header{
 	position: relative;
-	height: 114px;
+	height: 150px;
 	margin: 0px 0px;
 	padding: 70px 0 0 0;
 	background-image: url("../imagens/banner-gadaabe424_1920.jpg");
