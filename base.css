@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue;
+}
+h1{
+	font-size: xx-large;
+	font-family: sans-serif;
+}
+header{
+	position: relative;
+	height: 150px;
+	margin: 0px 0px;
+	background-color: lightgray;
+}
+cabecalho {
+    padding: 53px;
+    width: 80%;
+    margin: 0 auto;
+}
+.nomesite{
+	padding-left: 2%;
+	display: inline-block;
+}
+.navegacao {
+    position: absolute;
+    right: 131px;
+    margin-top: 5px;
+    text-align: center;
+    /* margin: auto; */
+    display: inline-block;
+    background-color: #f1f1f1;
+}
+nav li{
+	display: inline-block;
+	font-family: fantasy;
+	font-size: x-large;
+	text-transform: uppercase;
+}
+nav li a{
+	text-decoration: none;
+	display: block;
+	width: 90px;
+	color: gray;
+}
+nav li a:hover {
+  background-color: #555;
+  color: white;
+}
