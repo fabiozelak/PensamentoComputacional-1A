@@ -55,8 +55,11 @@ nav li a:hover {
 	color: white;
 	text-decoration: underline;
 }
-footer {
+.footer {
 	height: 50px;
 	background-color: seagreen;
+}
+.footer p{
+	text-align: center;
 }
   
