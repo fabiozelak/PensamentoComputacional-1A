@@ -52,8 +52,8 @@ nav li a{
 	color: whitesmoke;
 }
 nav li a:hover {
-background-color: #555;
-color: white;
+	color: white;
+	text-decoration: underline;
 }
 footer {
 	height: 50px;
