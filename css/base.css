@@ -1,10 +1,10 @@
 body {
-  background-color: lightblue;
+	background-color: lightblue;
 }
 h1{
-    font-size: 4em;
-    font-family: 'Redressed', cursive;
-    color: whitesmoke;
+	font-size: 4em;
+	font-family: 'Redressed', cursive;
+	color: whitesmoke;
 }
 header{
 	position: relative;
@@ -17,27 +17,27 @@ header{
 	background-size: cover;
 }
 cabecalho {
-    padding: 53px;
-    width: 80%;
-    margin: 0 auto;
+	padding: 53px;
+	width: 80%;
+	margin: 0 auto;
 }
 .nomesite{
 	padding-left: 6%;
 	display: inline-block;
 }
 main p {
-    padding: 5px 10%;
-    text-align: center;
-    font-size: large;
+	padding: 5px 10%;
+	text-align: center;
+	font-size: large;
 }
 .navegacao {
-    position: absolute;
-    right: 131px;
-    margin-top: 5px;
-    text-align: center;
-    /* margin: auto; */
-    display: inline-block;
-    background-color: #f1f1f1;
+	position: absolute;
+	right: 131px;
+	margin-top: 5px;
+	text-align: center;
+	/* margin: auto; */
+	display: inline-block;
+	background-color: #f1f1f1;
 }
 nav li{
 	display: inline-block;
@@ -52,10 +52,11 @@ nav li a{
 	color: gray;
 }
 nav li a:hover {
-  background-color: #555;
-  color: white;
+background-color: #555;
+color: white;
 }
 footer {
-    height: 50px;
-    background-color: seagreen;
+	height: 50px;
+	background-color: seagreen;
 }
+  
