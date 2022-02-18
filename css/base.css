@@ -2,8 +2,9 @@ body {
   background-color: lightblue;
 }
 h1{
-	font-size: xx-large;
-	font-family: 'Redressed', cursive;
+    font-size: 4em;
+    font-family: 'Redressed', cursive;
+    color: whitesmoke;
 }
 header{
 	position: relative;
@@ -21,7 +22,7 @@ cabecalho {
     margin: 0 auto;
 }
 .nomesite{
-	padding-left: 2%;
+	padding-left: 6%;
 	display: inline-block;
 }
 .navegacao {
