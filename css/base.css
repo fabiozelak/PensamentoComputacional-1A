@@ -43,6 +43,7 @@ nav li{
 	font-family: fantasy;
 	font-size: x-large;
 	text-transform: uppercase;
+	text-align: left;
 }
 nav li a{
 	text-shadow: 2px 2px 5px black;
