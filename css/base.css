@@ -28,6 +28,7 @@ cabecalho {
 main{
 	padding-top: 1em;
 	padding-bottom: 1em;
+	height: 100vh;
 }
 main p {
 	padding: 5px 10%;
