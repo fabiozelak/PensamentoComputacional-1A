@@ -36,7 +36,14 @@ main p {
 	font-size: large;
 }
 .imagem_nicola {
+	width: 40%;
 	display:inline-block;
+}
+.texto_conteudo{
+	vertical-align: top;
+	width: 40%;
+	display: inline-block;
+	margin-right: 5%;
 }
 .navegacao {
 	position: absolute;
