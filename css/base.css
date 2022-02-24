@@ -28,14 +28,14 @@ cabecalho {
 main{
 	padding-top: 1em;
 	padding-bottom: 1em;
-	display: inline-block;
+/*	display: inline-block;*/
 }
 main p {
 	padding: 5px 10%;
 	text-align: center;
 	font-size: large;
 }
-img {
+.imagem_nicola {
 	display:inline-block;
 }
 .navegacao {
