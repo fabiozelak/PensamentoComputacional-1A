@@ -35,6 +35,9 @@ main p {
 	text-align: center;
 	font-size: large;
 }
+img {
+	display:inline-block;
+}
 .navegacao {
 	position: absolute;
 	right: 131px;
